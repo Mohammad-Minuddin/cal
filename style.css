@@ -1,0 +1,37 @@
+.calculator{
+    background: url(../img/calculator.png);
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 400px;
+}
+.num{
+    background: hsl(168, 31%, 77%);
+    margin-top: 25.9px;
+    margin-left: 33px;
+    width: 177px;
+    height: 37.9px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    text-align: right;
+    padding: 0px 5px;
+}
+.one{
+    margin-left: 31.5px;
+    margin-top: 20px;
+}
+.two{
+    margin-left: 31.5px;
+    margin-top: 12px;
+}
+.btn{
+    margin-left:2px;
+    width: 39.5px;
+    height: 28.5px;
+    background: rgb(188, 224, 245);
+    line-height: 1px;
+}
+.btnn{
+    background: rgb(133, 188, 223);
+    color: white;
+}
